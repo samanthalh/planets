@@ -3,3 +3,5 @@ Cold and dry, but everything is rust colored.
 The two moons may be a problem.
 
 Alpha doesn't like the cold. 
+
+Beta doesn't mind.
